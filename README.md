@@ -19,6 +19,6 @@ Hi there 👋
 
 I am a current student studying computer science at Oregon State University. 
 I have a keen interest in web development and currently working on a full stack e-commerce website. 
-I'm currently learning React and would like to build a beginner-friendly project to supplement my learning.
+I'm currently learning React and would like to build a project to supplement my learning.
 Feel free to reach out to me on LinkedIn if you would like to collaborate. 
 www.linkedin.com/in/justin-rous

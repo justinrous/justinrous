@@ -23,4 +23,5 @@ I'm currently building a full-stack stock portfolio management website that allo
 
 🚀 Learning & Collaboration
 I'm diving into React and always open to collaborating on interesting web projects. If you're working on something cool or just want to connect, feel free to reach out!
+
 [Connect with me on LinkedIn](https://www.linkedin.com/in/justin-rous/)

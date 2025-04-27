@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###About Me
+### About Me
 I'm a Computer Science student at Oregon State University, graduating soon and actively seeking opportunities to grow as a developer. I have a strong interest in web development, with a focus on building full-stack applications.
 
-###Current Project
+### Current Project
 I'm currently building a full-stack stock portfolio management website that allows users to track their investments and perform market research—combining backend logic with a clean, interactive frontend.
 
-###Learning & Collaboration
+### Learning & Collaboration
 I'm diving into React and always open to collaborating on interesting web projects. If you're working on something cool or just want to connect, feel free to reach out!
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/justin-rous/)

@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 Hi there 👋
 
 I am a current student studying computer science at Oregon State University. 
-I have a keen interest in web development and currently working on a full stack e-commerce website. 
-I'm currently learning React and would like to build a project to supplement my learning.
-Feel free to reach out to me on LinkedIn if you would like to collaborate. 
-www.linkedin.com/in/justin-rous
+I have a special interest in web development and currently implementing a 
+full-stack stock portfolio website used to manage a portfolio of stocks 
+and conduct market research.
